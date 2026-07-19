@@ -1,0 +1,46 @@
+D:\Docs\OneDrive\VS Projects\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.dll
+D:\Docs\OneDrive\VS Projects\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.pdb
+D:\Docs\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csprojResolveAssemblyReference.cache
+D:\Docs\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.Properties.Resources.resources
+D:\Docs\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.GenerateResource.Cache
+D:\Docs\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.dll
+D:\Docs\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.pdb
+C:\Users\Dave\OneDrive\VS Projects\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.dll
+C:\Users\Dave\OneDrive\VS Projects\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.pdb
+C:\Users\Dave\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csprojResolveAssemblyReference.cache
+C:\Users\Dave\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.Properties.Resources.resources
+C:\Users\Dave\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.GenerateResource.Cache
+C:\Users\Dave\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.dll
+C:\Users\Dave\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.pdb
+C:\Users\windo\OneDrive\VS Projects\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.dll
+C:\Users\windo\OneDrive\VS Projects\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.pdb
+C:\Users\windo\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csprojAssemblyReference.cache
+C:\Users\windo\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.Properties.Resources.resources
+C:\Users\windo\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.GenerateResource.cache
+C:\Users\windo\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.dll
+C:\Users\windo\OneDrive\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.pdb
+C:\Users\windo\OneDrive\Documents\VS Projects\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.dll
+C:\Users\windo\OneDrive\Documents\VS Projects\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.pdb
+C:\Users\windo\OneDrive\Documents\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csprojAssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.Properties.Resources.resources
+C:\Users\windo\OneDrive\Documents\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.GenerateResource.cache
+C:\Users\windo\OneDrive\Documents\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.dll
+C:\Users\windo\OneDrive\Documents\VS Projects\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.pdb
+C:\temp\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.dll
+C:\temp\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.pdb
+C:\temp\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csprojAssemblyReference.cache
+C:\temp\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.Properties.Resources.resources
+C:\temp\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.GenerateResource.cache
+C:\temp\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.CoreCompileInputs.cache
+C:\temp\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.dll
+C:\temp\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.pdb
+C:\Users\windo\OneDrive\Documents\Development\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.dll
+C:\Users\windo\OneDrive\Documents\Development\VaderConsulting.TextRuler\bin\Debug\VaderConsulting.TextRuler.pdb
+C:\Users\windo\OneDrive\Documents\Development\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.Properties.Resources.resources
+C:\Users\windo\OneDrive\Documents\Development\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.GenerateResource.cache
+C:\Users\windo\OneDrive\Documents\Development\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.dll
+C:\Users\windo\OneDrive\Documents\Development\VaderConsulting.TextRuler\obj\Debug\VaderConsulting.TextRuler.pdb

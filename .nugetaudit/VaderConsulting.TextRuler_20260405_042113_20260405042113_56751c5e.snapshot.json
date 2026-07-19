@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260405042113_56751c5e",
+  "CapturedUtc": "2026-04-05T04:21:13.4084935+00:00",
+  "NormalisedContentHash": "810F132D7CBD42C3449EEB9EC6BCE495E05974CBAB1E8A9252070C6F642E8A49",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "VaderConsulting.TextRuler",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\VaderConsulting.TextRuler\\VaderConsulting.TextRuler.csproj",
+    "SolutionKey": "A7F491CC7EC9AE5E",
+    "SourceIdentity": {
+      "IdentityKey": "A7F491CC7EC9AE5E",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\VaderConsulting.TextRuler\\VaderConsulting.TextRuler.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\VaderConsulting.TextRuler",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "DBF01482B7617EA0",
+      "ProjectName": "VaderConsulting.TextRuler",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\VaderConsulting.TextRuler\\VaderConsulting.TextRuler.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}
