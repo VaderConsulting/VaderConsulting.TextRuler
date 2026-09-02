@@ -1,5 +1,7 @@
 ﻿> **Attribution:** Based on work by **Andrey Lundin** ([Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler), CodeProject 2008, CPOL). See [LICENSE](LICENSE) for details.
 
+**Source last updated:** 2020-04-22
+
 # VaderConsulting.TextRuler
 
 A Windows Forms `UserControl` rendering a fully interactive text ruler similar to the ruler found in Microsoft Word. NuGet-packaged for use in rich-text or document-editing applications.
