@@ -50,3 +50,8 @@ var ruler = new VaderConsulting.TextRuler
 ruler.LeftIndentChanging += newValue => richTextBox1.SelectionIndent = newValue;
 this.Controls.Add(ruler);
 ```
+
+## Requirements
+
+- Visual Studio 2013 or later, .NET Framework 4.8
+
