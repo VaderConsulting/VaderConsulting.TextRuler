@@ -1,14 +1,12 @@
-﻿> **Attribution:** Based on work by **Andrey Lundin** ([Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler), CodeProject 2008, CPOL). See [LICENSE](LICENSE) for details.
-
-**Source last updated:** 2020-04-22
-
 # VaderConsulting.TextRuler
 
-A Windows Forms `UserControl` rendering a fully interactive text ruler similar to the ruler found in Microsoft Word. NuGet-packaged for use in rich-text or document-editing applications.
+Windows Forms `UserControl` that draws an interactive Word-style text ruler for rich-text or document editors: draggable left/right margins, first-line and hanging indents, right indent, click-to-add tab stops, and DPI-aware millimetre scaling. NuGet-packaged class library targeting .NET Framework 4.8.
 
-**Initiated:** 2015-02-13 · **Framework:** .NET Framework 4.8 · **Output:** Class Library
+**Source last updated:** 2020-04-22 · **Language:** C# · **Target:** .NET Framework 4.8 · **Output:** class library
 
----
+## Attribution and provenance
+
+> **Attribution:** Based on work by **Andrey Lundin** ([Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler), CodeProject 2008, CPOL). See [LICENSE](LICENSE) for details.
 
 ## Features
 
