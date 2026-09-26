@@ -2,9 +2,7 @@
 
 Windows Forms `UserControl` that draws an interactive Word-style text ruler for rich-text or document editors: draggable left/right margins, first-line and hanging indents, right indent, click-to-add tab stops, and DPI-aware millimetre scaling. NuGet-packaged class library targeting .NET Framework 4.8.
 
-**Source last updated:** 2020-04-22 · **Language:** C# · **Target:** .NET Framework 4.8 · **Output:** class library
-
-## Attribution and provenance
+**Source last updated:** 2020-04-23 · **Language:** C# · **Target:** .NET Framework 4.8 · **Output:** class library
 
 > **Attribution:** Based on work by **Andrey Lundin** ([Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler), CodeProject 2008, CPOL). See [LICENSE](LICENSE) for details.
 
@@ -53,3 +51,21 @@ this.Controls.Add(ruler);
 
 - Visual Studio 2013 or later, .NET Framework 4.8
 
+## Solution structure
+
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `VaderConsulting.TextRuler` (`VaderConsulting.TextRuler.csproj`) | C# | Class library (.NET Framework 4.8, ToolsVersion 12.0) | Word-style ruler `UserControl` with margin, indent, and tab-stop markers |
+
+## How to open
+
+Open `VaderConsulting.TextRuler.csproj` in Visual Studio 2013 or later (with the .NET Framework 4.8 targeting pack) and build. Reference the output DLL or NuGet package from a WinForms project and drop the `TextRuler` control onto a form.
+
+## Attribution and provenance
+
+Working copy from my Development folder `VaderConsulting.TextRuler`.
+Based on work by Andrey Lundin ([Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler), CodeProject 2008, CPOL).
+
+## License
+
+See [LICENSE](LICENSE). Portions derived from Andrey Lundin's CodeProject article remain under the CPOL; my additions follow the terms stated in the LICENSE file.
