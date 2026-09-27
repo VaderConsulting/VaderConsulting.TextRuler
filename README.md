@@ -63,6 +63,8 @@ Open `VaderConsulting.TextRuler.csproj` in Visual Studio 2013 or later (with the
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Working copy from my Development folder `VaderConsulting.TextRuler`.
 Based on work by Andrey Lundin ([Advanced Text Editor with Ruler](https://www.codeproject.com/Articles/22783/Advanced-Text-Editor-with-Ruler), CodeProject 2008, CPOL).
 
