@@ -2,7 +2,7 @@
 ==================
 
 The TextRuler UserControl in this repository is derived from the following
-CodeProject article and is NOT entirely original work by VaderConsulting.
+CodeProject article and is NOT entirely original work by Vader Consulting.
 
 ## Original Work
 
@@ -12,9 +12,9 @@ CodeProject article and is NOT entirely original work by VaderConsulting.
 - **Published:** January 2008
 - **Licence:** CodeProject Open Licence (CPOL)
 
-VaderConsulting has modified and repackaged the original TextRuler UserControl
+Vader Consulting has modified and repackaged the original TextRuler UserControl
 as a standalone NuGet-distributable library. The modifications and packaging
-work are original contributions by VaderConsulting, but the core TextRuler
+work are original contributions by Vader Consulting, but the core TextRuler
 control design originates with Andrey Lundin.
 
 The CodeProject Open Licence (CPOL) applies to the original portions:
